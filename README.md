@@ -1,6 +1,6 @@
 Trabalho extensionista da cadeira de coleta, análise e preparação de dados
 
-Grupo: Gustavo Bortolon, Lucas Ulson, Vitor Cruz e Willian Klein.
+Grupo: Gustavo Bortolon, Lucas Ulson, Victor Cruz e Willian Klein.
 
 Esse repositório tem os códigos da etapa 2, de preparação de dados.
 
